@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\ai-masking",
+    "\\ai-masking\\styleGAN2_ada_model",
+    "\\ai-masking\\styleGAN2_ada_model\\stylegan2_ada",
+    "\\ai-masking\\styleGAN2_ada_model\\stylegan2_ada\\torch_utils",
+    "\\ai-masking\\styleGAN2_ada_model\\stylegan2_ada\\torch_utils\\ops"
+  ],
+  "SelectedNode": "\\ai-masking\\styleGAN2_ada_model\\stylegan2_ada\\torch_utils\\ops\\bias_act.cpp",
+  "PreviewInSolutionExplorer": false
+}
